@@ -1,6 +1,6 @@
-# 운수데통 백엔드 서버
+# 운수데통 백엔드 서버 ( 종료 )
 - lang : TypeScript
-- Framework : express ( nest.js로 migartion 예정 )
+- Framework : express ~~( nest.js로 migartion 예정 )~~
 - DB : mysql
 - testing, CI/CD : github action, jest
 - deploy : aws ec2(DB), raspberryPi (server, client)
