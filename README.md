@@ -7,7 +7,7 @@
 - etc : passport.js
 
 # 프론트
-[프론트 코드는 여기서 확인해주세요.](https://github.com/unsudetong/client)
+[프론트 코드는 여기서 확인해주세요.](https://github.com/kakasoo/luckydata_client)
 
 # 이제 사용하지 않습니다.
 ![Screenshot_1](https://user-images.githubusercontent.com/55487286/127272137-80e4d9a7-8762-43ed-865a-368b3bdd5d0b.png)
